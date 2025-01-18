@@ -35,5 +35,3 @@ The application will prompt you to enter a search query. You can search for movi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
