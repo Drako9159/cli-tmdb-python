@@ -1,10 +1,6 @@
 import requests
 from decouple import config
 
-LANGUAGE = "es-MX"
-
-LANSTR = f"?language={LANGUAGE}"
-
 class API():
     def __init__(self):
         self.url = "https://api.themoviedb.org/3"
