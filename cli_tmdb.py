@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import typer
-from commands import cli_tmdb
+from utils.commands import cli_tmdb
 
 app = typer.Typer()
 

@@ -1,6 +1,6 @@
 import typer
-from api import API
-from model import json_to_movie
+from utils.api import API
+from models.movie import json_to_movie
 
 api = API()
 
